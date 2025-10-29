@@ -1,0 +1,4 @@
+textblob #→ Performs sentiment polarity calculation 
+gradio #→ Creates an instant interactive web UI  
+openai #→ Imported for future expansion (optional)
+
